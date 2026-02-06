@@ -1,4 +1,4 @@
-![CRUD Operations on PostgreSQL with a Golang REST API](https://codevoweb.com/wp-content/uploads/2024/11/CRUD-Operations-on-PostgreSQL-with-a-Golang-REST-API.webp)
+
 Cara Menjalankan Aplikasi
 1.	Backend:
 2.	Set env: export DB_DSN="user:pass@tcp(localhost:3306)/ticketing_db" JWT_SECRET="secret" REDIS_ADDR="localhost:6379"
